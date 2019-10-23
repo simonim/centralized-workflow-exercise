@@ -1,0 +1,3 @@
+I learned this interesting quote today:
+
+"Python has no locked doors; it's a consenting adults language. If you open the door you're responsible for what you see." [R. Hettinger]
