@@ -1,0 +1,6 @@
+this is an option I use often: git commit -v
+
+this shows me the code difference I am about to commit
+in the editor where I edit the commit log message.
+
+this way i see again the variable names, etc.
