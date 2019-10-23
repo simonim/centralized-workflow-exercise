@@ -1,0 +1,7 @@
+Some text in some file that I was forced to make!
+
+Also here is a new line I added because I could.
+
+I'm not versed enough in git to know any interesting tricks
+
+# don't judge
